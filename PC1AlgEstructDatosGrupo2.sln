@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PC1AlgEstructDatosGrupo2", "PC1AlgEstructDatosGrupo2\PC1AlgEstructDatosGrupo2.vcxproj", "{DACD592E-9E44-4C48-9263-2A81C067A4FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DACD592E-9E44-4C48-9263-2A81C067A4FC}.Debug|x64.ActiveCfg = Debug|x64
+		{DACD592E-9E44-4C48-9263-2A81C067A4FC}.Debug|x64.Build.0 = Debug|x64
+		{DACD592E-9E44-4C48-9263-2A81C067A4FC}.Debug|x86.ActiveCfg = Debug|Win32
+		{DACD592E-9E44-4C48-9263-2A81C067A4FC}.Debug|x86.Build.0 = Debug|Win32
+		{DACD592E-9E44-4C48-9263-2A81C067A4FC}.Release|x64.ActiveCfg = Release|x64
+		{DACD592E-9E44-4C48-9263-2A81C067A4FC}.Release|x64.Build.0 = Release|x64
+		{DACD592E-9E44-4C48-9263-2A81C067A4FC}.Release|x86.ActiveCfg = Release|Win32
+		{DACD592E-9E44-4C48-9263-2A81C067A4FC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30648658-B902-4E32-8A89-4BD858924970}
+	EndGlobalSection
+EndGlobal
