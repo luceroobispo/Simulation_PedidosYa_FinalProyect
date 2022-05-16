@@ -13,7 +13,7 @@ Aplicación minimalista sobre el tema de Gestión de envíos, en base a la ya ex
 1. Menú principal: 
    - iniciar sesión
    - registrar cuenta
-   - salir.
+   - salir
 3. Si no tiene cuenta, se registra indicando su nombre de usuario, contraseña. Y si es su primera vez iniciando sesión, se le pide su nombre, dirección y teléfono.
 4. El programa tiene un usuario llamado admin. Si inicia sesión con este usuario, se desplegará otro menú: 
    - ver usuarios
