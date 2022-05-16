@@ -2,7 +2,7 @@
 
 Aplicación minimalista sobre el tema de Gestión de envíos, en base a la ya existente aplicación de “PedidosYa".
 
-## Funcionalidades
+## Características
 - Implementación de 3 tipos de estructuras con templates: Pila, lista enlazada doble y vector.
 - Creación de funciones con lambdas y recursividad.
 - Uso del algoritmo fisher yates y de diferentes tipos de ordenamientos.
