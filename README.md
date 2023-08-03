@@ -59,6 +59,6 @@ Aplicación minimalista sobre el tema de Gestión de envíos, en base a la ya ex
 5. Cuando el usuario cierra sesión, vuelve al menú principal.
 
 ## Authors
-- Jair Andreé Coraje Bayona
-- Eric Fernando Cuevas Rios
-- Lucero Abigail Obispo Rios 🙋🏻
+- Jair Coraje 
+- Eric Cuevas 
+- Lucero Obispo 🙋🏻
