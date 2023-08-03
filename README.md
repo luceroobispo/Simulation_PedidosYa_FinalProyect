@@ -58,7 +58,3 @@ Aplicación minimalista sobre el tema de Gestión de envíos, en base a la ya ex
    - cerrar sesión
 5. Cuando el usuario cierra sesión, vuelve al menú principal.
 
-## Authors
-- Jair Coraje 
-- Eric Cuevas 
-- Lucero Obispo 🙋🏻
